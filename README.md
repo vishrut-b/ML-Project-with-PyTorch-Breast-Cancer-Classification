@@ -108,26 +108,6 @@ class NeuralNet(nn.Module):
 
 ---
 
-## How to Use
-1. **Prerequisites**:
-   - Python 3.x
-   - Libraries: scikit-learn, PyTorch, NumPy, Matplotlib, Pandas
-
-2. **Steps**:
-   - Clone the repository.
-   - Install the required dependencies: `pip install -r requirements.txt`
-   - Run the notebook `main.ipynb` to reproduce the results.
-
-3. **Customization**:
-   - Modify the neural network architecture in the `NeuralNet` class.
-   - Experiment with different optimizers and learning rates.
-
----
-
-## Future Work
-- Extend the model to a multi-class classification problem for related datasets.
-- Incorporate hyperparameter optimization techniques.
-- Explore transfer learning for improved accuracy.
 
 ---
 
