@@ -9,9 +9,8 @@ This project is an exploration of machine learning techniques applied to classif
 - [Methodology](#methodology)
 - [Implementation Details](#implementation-details)
 - [Results](#results)
-- [How to Use](#how-to-use)
-- [Future Work](#future-work)
 - [References](#references)
+
 
 ---
 
