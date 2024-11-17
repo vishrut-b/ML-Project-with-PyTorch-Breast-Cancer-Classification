@@ -1,9 +1,3 @@
-# ML-Project-with-PyTorch-Breast-Cancer-Classification
-
-Here's a detailed and professional README for your Breast Cancer Classification project:
-
----
-
 # Breast Cancer Classification Using Scikit-Learn and PyTorch
 
 This project is an exploration of machine learning techniques applied to classify breast cancer as malignant or benign. Leveraging both **scikit-learn** and **PyTorch**, the project demonstrates the full machine learning pipeline, from data preprocessing to model evaluation.
